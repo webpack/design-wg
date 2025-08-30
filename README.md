@@ -19,6 +19,7 @@ The Design Working Group manages all aspects and processes linked to the Webpack
 ### Team Members @webpack/design-wg
 
 - [Even Stensberg](https://github.com/evenstensberg)
+- [Oliver Williams](https://github.com/o-t-w)
 
 ## Meetings
 
