@@ -6,7 +6,8 @@ The Design Working Group manages all aspects and processes linked to the Webpack
 
 ### Responsibilities
 
-- Define artwork and website design as neeeded.
+- Define artwork and website design as needed.
+- Assist in development of projects that require designs.
 
 ## Current Initiatives
 
