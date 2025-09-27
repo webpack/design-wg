@@ -14,6 +14,12 @@ Mostly because we want to refresh the website and for that we need a good design
 - Consistent look and feel across the website and documentation
 - Ressources for commincation (social media, presentations, etc.)
 
+## Naming Convention
+
+Webpack can should be written as "Webpack" or "webpack" depending on the context. The "W" is capitalized when it is at the beginning of a sentence or in titles. In other cases, it can be written in lowercase.
+
+"light theme" define an assets that is designed to be used on light backgrounds, while "dark theme" is designed for dark backgrounds.
+
 ## Color Palette
 
 <img src="./rebrand-assets/color-pallet.svg" alt="Color Palette" />
@@ -60,3 +66,9 @@ The text color is `blue-950`.
 The text color is `blue-50`.
 
 <img src="./rebrand-assets/logo-on-dark-bg.svg" alt="Webpack Logo" />
+
+## Typography
+
+### Font Family
+
+We decide to use [Montserrat](https://fonts.google.com/specimen/Montserrat) for headings and logo text and [Open Sans](https://fonts.google.com/specimen/Open+Sans) for body text.
