@@ -1,5 +1,7 @@
 # Design Working Group
 
+**This Working Group has been archived and will be replaced by individual contributions as well as help from the OpenJS Foundation**
+
 ## Charter
 
 The Design Working Group manages all aspects and processes linked to the Webpack Project's design.
