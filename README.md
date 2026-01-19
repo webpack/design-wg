@@ -4,7 +4,7 @@
 
 ## Charter
 
-The Design Working Group manages all aspects and processes linked to the Webpack Project's design.
+The Design Working Group manages all aspects and processes linked to the webpack Project's design.
 
 ### Responsibilities
 
@@ -15,7 +15,7 @@ The Design Working Group manages all aspects and processes linked to the Webpack
 
 | Initiative | Champion | Status | Links |
 |------------|----------|--------|-------|
-| Bootstrap the WG | [@evenstensberg](https://github.com/eventensberg) | In progress | _none_ |
+| Bootstrap the WG | [@evenstensberg](https://github.com/evenstensberg) | In progress | _none_ |
 
 ## Members
 
@@ -35,4 +35,4 @@ The Deisgn Working Group uses [GitHub issues](https://github.com/webpack/design-
 
 ## Code of Conduct
 
-The [Webpack Project's CoC](https://github.com/webpack/webpack/blob/main/CODE_OF_CONDUCT.md) applies to this repo.
+The [webpack Project's CoC](https://github.com/webpack/webpack/blob/main/CODE_OF_CONDUCT.md) applies to this repo.
